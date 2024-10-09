@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello everyone! 👋 As a fourth-year Systems Engineering student, <br>I'm excited to share my updated resume with you all! 🚀 <br>Throughout my academic journey, I've honed skills in programming,<br>data analysis, and software development, among others. <br>Engaging in challenging projects has allowed me to apply these <br>skills in real-world scenarios and collaborate effectively <br>with teams.<br><br>My resume mirrors my dedication to continuous learning <br>and my passion for technology. <br>I'm eager to further develop professionally and make meaningful<br> contributions to the field of systems engineering with my creativity and drive.
+<br>Actualmente, estoy cursando el cuarto año de la carrera de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional de Córdoba. Además de mis estudios universitarios, me encuentro en un proceso de aprendizaje autodidacta en programación.
 
 
 ## 🌐 Socials:
