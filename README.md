@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Actualmente, estoy cursando el cuarto año de la carrera de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional de Córdoba. Además de mis estudios universitarios, me encuentro en un proceso de aprendizaje autodidacta en programación.
+<br>Actualmente, estoy cursando el quinto año de la carrera de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional de Córdoba. Además de mis estudios universitarios, me encuentro en un proceso de aprendizaje autodidacta en programación.
 
 
 ## 🌐 Socials:
